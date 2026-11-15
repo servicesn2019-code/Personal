@@ -1,7 +1,11 @@
 # Certificações e cursos
 
-Espaço para os certificados e links de validação de Armand Marques Filho.
+Documentos de Armand Marques Filho.
 
-Os documentos serão adicionados após sua seleção e conferência. No momento, não há certificados publicados nesta pasta.
+| Certificação | Instituição | Emissão | Validade indicada no documento | Comprovante |
+| --- | --- | --- | --- | --- |
+| Certified Scrum Product Owner® (CSPO) | Scrum Alliance | 02/08/2014 | Até 02/08/2016 | [Visualizar PDF](CSPO_Scrum_Alliance_2014.pdf) |
+
+O certificado CSPO é apresentado como registro histórico. O documento publicado não comprova renovação ou certificação atualmente ativa.
 
 [Voltar ao perfil profissional](https://github.com/servicesn2019-code)
